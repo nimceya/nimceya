@@ -111,11 +111,11 @@ A responsive restaurant application with a modern user interface.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ahmed)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/nimceya)
 
 
 
-📧 Email: nimcosaed031@gmail.com
+
 
 </div>
 
