@@ -93,17 +93,6 @@ A responsive restaurant application with a modern user interface.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nimceya&show_icons=true&theme=midnight-purple&hide_border=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimceya&layout=compact&theme=midnight-purple&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=nimceya&theme=midnight-purple&hide_border=true" />
-
-</div>
 
 ---
 
